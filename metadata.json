@@ -1,0 +1,6 @@
+{
+  "name": "Shatu's Cozy Cup ☕❤️",
+  "description": "Artisan online coffee shop & boba bar featuring online ordering, doorstep delivery, interactive 3D drink animations, and live customer care concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
